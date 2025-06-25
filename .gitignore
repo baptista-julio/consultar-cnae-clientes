@@ -1,0 +1,7 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+arquivos_origem/
+arquivos_resultantes/
+CNPJ_consulta_incremental_*
